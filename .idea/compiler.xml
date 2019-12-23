@@ -9,6 +9,8 @@
         <module name="evc-dataservice" />
         <module name="euerka" />
         <module name="euerkaclient" />
+        <module name="ribbon" />
+        <module name="feignserver" />
       </profile>
     </annotationProcessing>
   </component>
@@ -18,6 +20,8 @@
       <module name="euerka" options="-parameters" />
       <module name="euerkaclient" options="-parameters" />
       <module name="evc-dataservice" options="-parameters" />
+      <module name="feignserver" options="-parameters" />
+      <module name="ribbon" options="-parameters" />
     </option>
   </component>
 </project>

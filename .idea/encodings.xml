@@ -5,5 +5,7 @@
     <file url="file://$PROJECT_DIR$/euerka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/euerkaclient" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/evc-dataservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feignserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon" charset="UTF-8" />
   </component>
 </project>

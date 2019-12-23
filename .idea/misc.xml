@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/euerka/pom.xml" />
         <option value="$PROJECT_DIR$/euerkaclient/pom.xml" />
         <option value="$PROJECT_DIR$/evc-dataservice/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/feignserver/pom.xml" />
       </list>
     </option>
   </component>
